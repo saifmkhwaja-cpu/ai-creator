@@ -1,8 +1,3 @@
-export const metadata = {
-  title: "AI Creator",
-  description: "Freelancers & Creators Platform",
-};
-
 export default function RootLayout({
   children,
 }: {
